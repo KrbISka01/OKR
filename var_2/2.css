@@ -1,0 +1,38 @@
+.qwe li:before {
+    list-style-type: none;
+    content: "-";
+    position: relative;
+    left: -15px;
+    color: dodgerblue;
+    padding-left: 20px;
+}
+
+.li li {
+    padding-left: 20px;
+}
+
+a {
+    color: dodgerblue;
+}
+
+ol, ul {
+    margin: 0;
+}
+
+.qwer {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ewq {
+    margin-left: 50px;
+}
+
+.qwert {
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+
+

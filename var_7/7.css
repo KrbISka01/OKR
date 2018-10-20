@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+td {
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+.qwe{
+    font-weight: bold;
+    font-size: 30px;
+}
+

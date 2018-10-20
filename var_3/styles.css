@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background: lightgrey;
+
+}
+
+.content {
+    width: 30%;
+    background: lightgrey;
+}
+
+.head span {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    border: lightskyblue solid 2px;
+    border-right: 0;
+    justify-content: center;
+    background-color: yellow;
+    padding: 4px 4px 4px 0;
+    margin: 10px;
+}
+
+.text {
+    margin-left: 90px;
+    padding: 20px;
+    font-size: 40px;
+    background-color: lightskyblue;
+    border-left: red dashed 3px;
+    border-bottom: red dotted 3px;
+}
+
+.text span {
+    color: green;
+    text-decoration: underline;
+}
+
+.footer {
+    margin-top: 100px;
+    margin-left: 20px;
+    border-top: 1px solid;
+    border-right: 1px solid;
+    font-size: 20px;
+}

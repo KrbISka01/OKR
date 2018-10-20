@@ -1,0 +1,53 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.header {
+    background-color: lightgray;
+    width: 40%;
+    height: 40%;
+}
+
+.грамота {
+    font-size: 40px;
+    text-align: right;
+    background-color: lightskyblue;
+    width: 70%;
+    margin-left: 20%;
+    border-right: black solid 3px;
+}
+
+.волейбол {
+    background-color: hotpink;
+    width: 80%;
+    margin-right: 30%;
+    padding: 30px;
+    border-bottom: blue dashed 3px;
+    border-top: blue dashed 3px;
+    margin-top: 50px;
+}
+
+.vole {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    color: yellow;
+    font-size: 30px;
+}
+
+
+.клуб {
+    margin-top: 30px;
+    color: white;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    background-color: darkgreen;
+    width: 30%;
+    padding: 10px;
+    border-bottom: red 2px solid;
+    border-left: red 2px solid;
+}
+
+.клуб span {
+    color: black;
+    font-size: 30px;
+}

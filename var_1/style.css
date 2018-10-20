@@ -1,0 +1,29 @@
+.content {
+    width: 40%;
+    height: 40%;
+    background: forestgreen;
+}
+
+.dw {
+    color: red;
+}
+
+.dw a {
+    color: lightskyblue;
+}
+
+.floor {
+    color: brown;
+    font-weight: bolder;
+}
+
+.elevators {
+    color: lightgrey;
+    font-style: italic;
+}
+.bold{
+    font-weight: bolder;
+}
+.raze {
+    font-style: italic;
+}
